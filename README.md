@@ -14,5 +14,5 @@
 
 ## The issue with the Keychron Launcher
 
-With the introduction of the [Keychron Launcher][https://launcher.keychron.com/), it has become easier to remap keyboards and update firmware. However, as of now, it is not possible to export the keyboard keymaps file.
+With the introduction of the [Keychron Launcher](https://launcher.keychron.com/), it has become easier to remap keyboards and update firmware. However, as of now, it is not possible to export the keyboard keymaps file.
 
